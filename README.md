@@ -9,7 +9,7 @@ Clone/fork this repository and make a commit with this change. After you've made
 
 ## Result
 
-![updated home page](Screenshot 2023-05-17 020337.png)
+![updated home page](screenshot.png)
 
 ## Contributions
 Feel free to clone this repo locally and use your own editor of choice.
